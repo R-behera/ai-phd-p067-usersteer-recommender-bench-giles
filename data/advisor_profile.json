@@ -1,0 +1,13 @@
+{
+  "professor": "C. Lee Giles",
+  "university": "Penn State",
+  "program": "CSE PhD",
+  "research_area": "Information retrieval, search engines, digital libraries, deep learning",
+  "representative_paper": "CiteSeer: An Automatic Citation Indexing System; 1998; ACM DL",
+  "paper_link": "https://scholar.google.com/scholar?q=CiteSeer%3A+An+Automatic+Citation+Indexing+System",
+  "project_family": "retrieval",
+  "focus": "Information retrieval",
+  "value_add_artifact": "transparent ranking evidence and controllability audit",
+  "next_step": "Replace seed rankings with BEIR/MovieLens-style results and test user-control tradeoffs.",
+  "generated_for": "professor outreach value-add starter"
+}
